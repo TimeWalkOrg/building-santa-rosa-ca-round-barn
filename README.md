@@ -1,4 +1,4 @@
-# building-santa-rosa-round-barn
+# Recreating Santa Rosa's Fountaingrove Round Barn
 Recreating the historic "Round Barn" at the Fountaingrove Inn in Santa Rosa.  This building was destroyed in the Tubbs Fire of October, 2017.
 
 ![GitHub Logo](https://github.com/TimeWalkOrg/building-santa-rosa-ca-round-barn/blob/master/images/Fountaingrove_Round_Barn.jpg)
