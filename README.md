@@ -4,6 +4,7 @@ Recreating the historic "Round Barn" at the Fountaingrove Inn in Santa Rosa.  Th
 ![Fountaingrove Round Barn](https://github.com/TimeWalkOrg/building-santa-rosa-ca-round-barn/blob/master/images/Fountaingrove_Round_Barn.jpg)
 
 ![Kent Porter/Press Democrat, 10/9/2017](https://github.com/TimeWalkOrg/building-santa-rosa-ca-round-barn/blob/master/images/roundbarnburning_press_democrat.jpeg)
+
 Kent Porter/Press Democrat, 10/9/2017
 
 # Links
